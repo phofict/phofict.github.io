@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://phofict.github.io/sitemap.html.gz
+Sitemap: https://phofict.github.io/app/sitemap.html.gz
+Sitemap: https://phofict.github.io/assets/sitemap.html.gz
+Sitemap: https://phofict.github.io/css/sitemap.html.gz
+Sitemap: https://phofict.github.io/includes/sitemap.html.gz
+Sitemap: https://phofict.github.io/item/sitemap.html.gz
+Sitemap: https://phofict.github.io/src/sitemap.html.gz
